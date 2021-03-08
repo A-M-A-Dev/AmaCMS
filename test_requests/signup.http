@@ -1,9 +1,0 @@
-POST https://localhost/api/auth/signup HTTP/1.1
-content-type: application/json
-
-{
-    "email": "a@b.com",
-    "password": "123456",
-    "firstName": "Ahmad",
-    "lastName": "Salimi"
-}
